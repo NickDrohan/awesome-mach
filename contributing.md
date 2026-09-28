@@ -8,6 +8,7 @@ This is a curated list of the best Mach projects, not a catalog of every one. [m
 - It is public, maintained, and not archived.
 - It has a README explaining what it does and how to use it.
 - It is useful to other people, not just a personal experiment.
+- It works today: it has a release, and what its README describes is implemented.
 
 ## Adding a project
 
