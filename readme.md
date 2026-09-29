@@ -61,6 +61,7 @@ Mach is small and explicit. It has no garbage collector and no hidden allocation
 ## Game Development
 
 - [boom](https://github.com/briar-systems/boom) - 2D-first, 3D-capable game engine with a Vulkan renderer, shaders written in Mach, and skeletal animation.
+- [machete](https://github.com/NickDrohan/machete) - UCI chess engine with a neural-network evaluation, multithreaded search, and hand-encoded AVX2 kernels, named for what it does to a variation tree.
 
 ## Resources
 
